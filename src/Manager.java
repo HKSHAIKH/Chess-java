@@ -7,7 +7,6 @@ public class Manager {
 		MainFrame mainFrame = new MainFrame(frame);
 		
 		
-		
 	}
 
 }
